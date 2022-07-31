@@ -1,0 +1,7 @@
+{"env":
+    {
+        "USER_MONGO":"MyProject",
+        "PWD_MONGO":"MyProject",
+        "MONGO_DB":"events-react-dev"
+    }
+}
